@@ -1,5 +1,5 @@
 # Naviagtion-System
-Made for out university navigation purpose, being a student of university we I faced issues in finding the lecture theatres, classrooms and labs. for resolving this issue I thought to make a navigation system using virtual reality which turned out interesting and perfect for solving the issue.
+Made for our university navigation purpose, being a student of university we I faced issues in finding the lecture theatres, classrooms and labs. for resolving this issue I thought to make a navigation system using virtual reality which turned out interesting and perfect for solving the issue.
 
 ![pic 1](https://user-images.githubusercontent.com/75370021/215985095-6654b8de-f22f-4fae-95ef-fa61f142ff1c.png)
 
